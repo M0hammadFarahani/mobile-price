@@ -4,14 +4,14 @@ This project is a **classification task** aimed at predicting the **price catego
 
 The dataset is clean, balanced, and contains various features such as battery power, RAM, screen size, and more.  
 
----
+
 
 ## 📂 Dataset
 
 The dataset used is from [Kaggle - Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification).  
 It includes **2000 samples** with **20 numerical features**, and the target is a **price range** from 0 (lowest) to 3 (highest).
 
----
+
 
 ## 🚀 Project Workflow
 
